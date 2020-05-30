@@ -1,2 +1,2 @@
 # phpAlgorithm
-phpでアルゴリズム
+アルゴリズム備忘録
